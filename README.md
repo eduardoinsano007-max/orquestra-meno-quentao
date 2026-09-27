@@ -67,4 +67,4 @@ O projeto foi estruturado como site estático para publicação na Vercel. No da
 
 ## Autoria
 
-Feito por **Maria & João**, com apoio de Inteligência Artificial.
+Feito por **Douglas & Eduardo**, com apoio de Inteligência Artificial.
